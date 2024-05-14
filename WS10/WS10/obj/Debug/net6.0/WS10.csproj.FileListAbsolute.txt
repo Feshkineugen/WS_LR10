@@ -1,0 +1,15 @@
+C:\Users\feshk\source\repos\WS10\WS10\bin\Debug\net6.0\WS10.exe
+C:\Users\feshk\source\repos\WS10\WS10\bin\Debug\net6.0\WS10.deps.json
+C:\Users\feshk\source\repos\WS10\WS10\bin\Debug\net6.0\WS10.runtimeconfig.json
+C:\Users\feshk\source\repos\WS10\WS10\bin\Debug\net6.0\WS10.dll
+C:\Users\feshk\source\repos\WS10\WS10\bin\Debug\net6.0\WS10.pdb
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\WS10.csproj.AssemblyReference.cache
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\WS10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\WS10.AssemblyInfoInputs.cache
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\WS10.AssemblyInfo.cs
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\WS10.csproj.CoreCompileInputs.cache
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\WS10.dll
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\refint\WS10.dll
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\WS10.pdb
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\WS10.genruntimeconfig.cache
+C:\Users\feshk\source\repos\WS10\WS10\obj\Debug\net6.0\ref\WS10.dll
